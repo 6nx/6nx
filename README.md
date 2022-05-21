@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @6nx
+- 👋 Hi, I’m @SubwooferLullaby
 - 👀 I develop in python, javascript, and much more! 
 - 📫 Contact me on discord clumber#7126
 

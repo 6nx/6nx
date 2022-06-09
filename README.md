@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @clumb3r
-- 👀 I develop in python, javascript, and much more! 
+- 👀 I develop in python, java, and much more! 
 - 📫 Contact me on discord clumber#7126
 
 <!---
